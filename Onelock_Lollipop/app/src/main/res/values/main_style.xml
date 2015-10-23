@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="main_style" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/android:transparent</item>
+        <!--  your app branding color for the app bar -->
+        <item name="android:colorPrimary">@color/primary</item>
+        <!--  darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">@color/primary</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
