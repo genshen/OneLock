@@ -1,4 +1,4 @@
-package com.onelocker.onelocker;
+package me.genshen.onelock;
 
 /**
  * Created by 根深 on 2015/10/22.

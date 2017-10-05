@@ -1,4 +1,4 @@
-package com.onelocker.onelocker;
+package com.onelocker.onelock;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
